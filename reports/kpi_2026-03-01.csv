@@ -1,0 +1,49 @@
+KPI,MONTH,TARGET,ACTUAL,VARIANCE,VARIANCE_%,STATUS,ASSESSMENT,VAR_PCT,TRAFFIC_LIGHT,RUN_DATE
+AUM Growth %,Jan,12.0,10.55,-1.45,-12.08,BELOW,Requires attention,-12.08,RED,2026-03-01
+AUM Growth %,Feb,12.0,10.74,-1.26,-10.5,BELOW,Requires attention,-10.5,RED,2026-03-01
+AUM Growth %,Mar,12.0,10.89,-1.11,-9.25,BELOW,Requires attention,-9.25,RED,2026-03-01
+AUM Growth %,Apr,12.0,12.1,0.1,0.83,ON TARGET,Meeting expectations,0.83,AMBER,2026-03-01
+AUM Growth %,May,12.0,13.13,1.13,9.42,ABOVE,Exceeding target,9.42,GREEN,2026-03-01
+AUM Growth %,Jun,12.0,11.16,-0.84,-7.0,BELOW,Requires attention,-7.0,RED,2026-03-01
+Revenue Yield bps,Jan,85.0,82.37,-2.63,-3.09,ON TARGET,Meeting expectations,-3.09,AMBER,2026-03-01
+Revenue Yield bps,Feb,85.0,81.76,-3.24,-3.81,ON TARGET,Meeting expectations,-3.81,AMBER,2026-03-01
+Revenue Yield bps,Mar,85.0,82.6,-2.4,-2.82,ON TARGET,Meeting expectations,-2.82,AMBER,2026-03-01
+Revenue Yield bps,Apr,85.0,86.66,1.66,1.95,ON TARGET,Meeting expectations,1.95,AMBER,2026-03-01
+Revenue Yield bps,May,85.0,97.5,12.5,14.71,ABOVE,Exceeding target,14.71,GREEN,2026-03-01
+Revenue Yield bps,Jun,85.0,78.01,-6.99,-8.22,BELOW,Requires attention,-8.22,RED,2026-03-01
+Cost-to-Income Ratio,Jan,55.0,58.04,3.04,5.53,ABOVE,Exceeding target,5.53,GREEN,2026-03-01
+Cost-to-Income Ratio,Feb,55.0,60.74,5.74,10.44,ABOVE,Exceeding target,10.44,GREEN,2026-03-01
+Cost-to-Income Ratio,Mar,55.0,57.54,2.54,4.62,ON TARGET,Meeting expectations,4.62,AMBER,2026-03-01
+Cost-to-Income Ratio,Apr,55.0,60.91,5.91,10.75,ABOVE,Exceeding target,10.75,GREEN,2026-03-01
+Cost-to-Income Ratio,May,55.0,59.28,4.28,7.78,ABOVE,Exceeding target,7.78,GREEN,2026-03-01
+Cost-to-Income Ratio,Jun,55.0,48.29,-6.71,-12.2,BELOW,Requires attention,-12.2,RED,2026-03-01
+Client Retention %,Jan,95.0,91.56,-3.44,-3.62,ON TARGET,Meeting expectations,-3.62,AMBER,2026-03-01
+Client Retention %,Feb,95.0,96.5,1.5,1.58,ON TARGET,Meeting expectations,1.58,AMBER,2026-03-01
+Client Retention %,Mar,95.0,82.35,-12.65,-13.32,BELOW,Requires attention,-13.32,RED,2026-03-01
+Client Retention %,Apr,95.0,81.02,-13.98,-14.72,BELOW,Requires attention,-14.72,RED,2026-03-01
+Client Retention %,May,95.0,85.63,-9.37,-9.86,BELOW,Requires attention,-9.86,RED,2026-03-01
+Client Retention %,Jun,95.0,95.0,0.0,0.0,ON TARGET,Meeting expectations,0.0,AMBER,2026-03-01
+Portfolio Alpha %,Jan,2.5,2.45,-0.05,-2.0,ON TARGET,Meeting expectations,-2.0,AMBER,2026-03-01
+Portfolio Alpha %,Feb,2.5,2.71,0.21,8.4,ABOVE,Exceeding target,8.4,GREEN,2026-03-01
+Portfolio Alpha %,Mar,2.5,2.55,0.05,2.0,ON TARGET,Meeting expectations,2.0,AMBER,2026-03-01
+Portfolio Alpha %,Apr,2.5,2.77,0.27,10.8,ABOVE,Exceeding target,10.8,GREEN,2026-03-01
+Portfolio Alpha %,May,2.5,2.2,-0.3,-12.0,BELOW,Requires attention,-12.0,RED,2026-03-01
+Portfolio Alpha %,Jun,2.5,2.52,0.02,0.8,ON TARGET,Meeting expectations,0.8,AMBER,2026-03-01
+Sharpe Ratio,Jan,1.4,1.21,-0.19,-13.57,BELOW,Requires attention,-13.57,RED,2026-03-01
+Sharpe Ratio,Feb,1.4,1.28,-0.12,-8.57,BELOW,Requires attention,-8.57,RED,2026-03-01
+Sharpe Ratio,Mar,1.4,1.55,0.15,10.71,ABOVE,Exceeding target,10.71,GREEN,2026-03-01
+Sharpe Ratio,Apr,1.4,1.56,0.16,11.43,ABOVE,Exceeding target,11.43,GREEN,2026-03-01
+Sharpe Ratio,May,1.4,1.39,-0.01,-0.71,ON TARGET,Meeting expectations,-0.71,AMBER,2026-03-01
+Sharpe Ratio,Jun,1.4,1.21,-0.19,-13.57,BELOW,Requires attention,-13.57,RED,2026-03-01
+Expense Ratio %,Jan,0.65,0.57,-0.08,-12.31,BELOW,Requires attention,-12.31,RED,2026-03-01
+Expense Ratio %,Feb,0.65,0.73,0.08,12.31,ABOVE,Exceeding target,12.31,GREEN,2026-03-01
+Expense Ratio %,Mar,0.65,0.73,0.08,12.31,ABOVE,Exceeding target,12.31,GREEN,2026-03-01
+Expense Ratio %,Apr,0.65,0.66,0.01,1.54,ON TARGET,Meeting expectations,1.54,AMBER,2026-03-01
+Expense Ratio %,May,0.65,0.56,-0.09,-13.85,BELOW,Requires attention,-13.85,RED,2026-03-01
+Expense Ratio %,Jun,0.65,0.73,0.08,12.31,ABOVE,Exceeding target,12.31,GREEN,2026-03-01
+Net Margin %,Jan,28.0,26.44,-1.56,-5.57,BELOW,Requires attention,-5.57,RED,2026-03-01
+Net Margin %,Feb,28.0,31.88,3.88,13.86,ABOVE,Exceeding target,13.86,GREEN,2026-03-01
+Net Margin %,Mar,28.0,28.73,0.73,2.61,ON TARGET,Meeting expectations,2.61,AMBER,2026-03-01
+Net Margin %,Apr,28.0,30.12,2.12,7.57,ABOVE,Exceeding target,7.57,GREEN,2026-03-01
+Net Margin %,May,28.0,29.79,1.79,6.39,ABOVE,Exceeding target,6.39,GREEN,2026-03-01
+Net Margin %,Jun,28.0,27.15,-0.85,-3.04,ON TARGET,Meeting expectations,-3.04,AMBER,2026-03-01

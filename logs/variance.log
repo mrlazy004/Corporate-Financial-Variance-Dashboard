@@ -1,0 +1,30 @@
+2026-03-01 13:29:55,534 [INFO] ============================================================
+2026-03-01 13:29:55,535 [INFO]  CORPORATE FINANCIAL VARIANCE ANALYSIS - MONTHLY RUN
+2026-03-01 13:29:55,536 [INFO] ============================================================
+2026-03-01 13:30:38,512 [INFO] ============================================================
+2026-03-01 13:30:38,515 [INFO]  CORPORATE FINANCIAL VARIANCE ANALYSIS - MONTHLY RUN
+2026-03-01 13:30:38,516 [INFO] ============================================================
+2026-03-01 13:30:38,532 [INFO] Loaded financials.csv: 300 rows
+2026-03-01 13:30:38,539 [INFO] Loaded kpi.csv: 48 rows
+2026-03-01 13:30:38,541 [INFO] Financials: Validation passed — 300 records
+2026-03-01 13:30:38,543 [INFO] KPI: Validation passed — 48 records
+2026-03-01 13:30:38,544 [INFO] Computing variance analysis...
+2026-03-01 13:30:38,570 [INFO] Variance complete: 300 records | Critical: 19
+2026-03-01 13:30:38,616 [INFO] Regional breakdown: 5 regions
+2026-03-01 13:30:38,706 [INFO] Trend analysis: 12 periods
+2026-03-01 13:30:38,722 [INFO] KPI scorecard: 48 KPIs | Below target: 16
+2026-03-01 13:30:38,847 [INFO] Saved to variance.db
+2026-03-01 13:30:38,859 [INFO] Exported variance -> reports\variance_2026-03-01.csv
+2026-03-01 13:30:38,863 [INFO] Exported regional -> reports\regional_2026-03-01.csv
+2026-03-01 13:30:38,866 [INFO] Exported segment -> reports\segment_2026-03-01.csv
+2026-03-01 13:30:38,872 [INFO] Exported trend -> reports\trend_2026-03-01.csv
+2026-03-01 13:30:38,878 [INFO] Exported kpi -> reports\kpi_2026-03-01.csv
+2026-03-01 13:30:39,514 [INFO] Excel report -> reports\variance_report_2026-03-01.xlsx
+2026-03-01 13:30:39,518 [INFO] Summary -> reports\summary_2026-03-01.json
+2026-03-01 13:30:39,521 [WARNING] CRITICAL VARIANCE ALERT - 2026-03-01
+Critical items: 19
+Revenue variance: $3,739,394
+Avg variance %: 0.41%
+Immediate CFO review required.
+2026-03-01 13:30:39,526 [INFO] DONE - Revenue variance: $3,739,394 | Critical: 19
+2026-03-01 13:30:39,526 [INFO] ============================================================

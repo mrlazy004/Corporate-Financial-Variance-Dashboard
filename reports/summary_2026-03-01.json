@@ -1,0 +1,23 @@
+{
+  "run_date": "2026-03-01",
+  "total_records": 300,
+  "total_revenue_actual": 889990523.73,
+  "total_revenue_budget": 886251129.87,
+  "revenue_variance": 3739393.86,
+  "revenue_var_pct": 0.41,
+  "total_ni_actual": 360793367.92,
+  "avg_net_margin_pct": 39.74,
+  "critical_items": 19,
+  "watch_items": 91,
+  "status_breakdown": {
+    "FAVORABLE": 125,
+    "UNFAVORABLE": 91,
+    "ON TARGET": 65,
+    "CRITICAL": 19
+  },
+  "risk_breakdown": {
+    "OK": 190,
+    "WATCH": 91,
+    "CRITICAL": 19
+  }
+}
